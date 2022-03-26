@@ -1,0 +1,92 @@
+{
+  "status": "ok",
+  "totalResults": 8,
+  "articles": [
+    {
+      "source": { "id": "nrk", "name": "NRK" },
+      "author": "NRK",
+      "title": "De siste sportsnyhetene fra NRK",
+      "description": "Her får du de siste sportsnyhetene fra NRK.",
+      "url": "https://www.nrk.no/sport/sportsnyheter-1.14660227#1.15900049.1.15900049",
+      "urlToImage": "https://gfx.nrk.no/7kT5zGoE2E-GnUKLojH1PQ0I1Nze4Ypu8lxM-oBjubQw.jpg",
+      "publishedAt": "2022-03-19T16:22:25.8988348Z",
+      "content": "18. mars2022kl.18:08Den ferske verdsrekordhaldaren verkar tent og klar når han møter NRK i Beograd dagen før han skal springe forsøket på 1500 meter i innandørs-VM.\r\nHan er spent på konkurransen, men… [+925 chars]"
+    },
+    {
+      "source": {
+        "id": "australian-financial-review",
+        "name": "Australian Financial Review"
+      },
+      "author": "Nick Carey",
+      "title": "Aston Martin launches swan song V12 Vantage before going electric",
+      "description": "Aston Martin has released the final petrol-powered version of its V12 Vantage sports car, as the luxury carmaker prepares to launch its first fully electric vehicle in 2025.",
+      "url": "http://www.afr.com/life-and-luxury/cars-bikes-and-boats/aston-martin-launches-swan-song-v12-vantage-before-going-electric-20220319-p5a63i",
+      "urlToImage": "https://static.ffx.io/images/$zoom_0.1765%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_43/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/68236a12c5bcf8d26bccc05eb7df5b708f1cc959",
+      "publishedAt": "2022-03-19T02:29:13Z",
+      "content": "Aston Martin has launched the final fossil-fuel version of its limited-run powerful V12 Vantage sports car, with every vehicle already snapped up before the British luxury carmaker starts its gradual… [+907 chars]"
+    },
+    {
+      "source": { "id": "the-globe-and-mail", "name": "The Globe And Mail" },
+      "author": "Tim Kiladze, Jaren Kerr",
+      "title": "The billion-dollar question for Ontario sports betting: Are profits possible – or is it the next cannabis bust?",
+      "description": "Sports betting is a big business, but it can also be a brutal business if the conditions aren’t right",
+      "url": "https://www.theglobeandmail.com/business/article-the-billion-dollar-question-for-ontario-sports-betting-are-profits/",
+      "urlToImage": "https://www.theglobeandmail.com/resizer/_oD9J8M-Gsea9tewP8C-dIm7LZA=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/5TAE6QQVVVCBZNW4YN3BKFELAM.JPG",
+      "publishedAt": "2022-03-18T23:08:23Z",
+      "content": "Sports media app theScore's chair and CEO John Levy (left) and president and COO Benjamin Levy.Christopher Katsarov/The Globe and Mail\r\nThe windfall John Levy had been praying for arrived, of all tim… [+19754 chars]"
+    },
+    {
+      "source": { "id": "abc-news-au", "name": "ABC News (AU)" },
+      "author": "Isaac Nowroozi, Niki Burnside",
+      "title": "How a sports stadium became a federal election issue for Canberra",
+      "description": "It may be the national capital, but Canberra is woefully lacking when it comes to major sporting facilities. On this, everyone is agreed, with federal election candidates this week making clear that they would take it on as an election issue.",
+      "url": "http://www.abc.net.au/news/2022-03-19/how-a-stadium-became-an-act-federal-election-issue/100914510",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/a682b1b1bd337b71045dbb68ea8dbe3e?impolicy=wcms_crop_resize&cropH=1554&cropW=2763&xPos=47&yPos=362&width=862&height=485",
+      "publishedAt": "2022-03-18T21:43:50Z",
+      "content": "It may be the national capital, but Canberra is woefully lacking when it comes to major sporting facilities.\r\nOn this, everyone is agreed, with contenders for one of the ACT's senate seats this week … [+7788 chars]"
+    },
+    {
+      "source": { "id": "the-verge", "name": "The Verge" },
+      "author": "Andrew J. Hawkins",
+      "title": "Porsche is working on all-electric Macan and 718 vehicles — and its own charging network",
+      "description": "Porsche is building its own EV charging network in an effort to boost sales of plug-in cars. The company is also working on all-electric versions of its Macan crossover and 718 sports car.",
+      "url": "https://www.theverge.com/2022/3/18/22984659/porsche-ev-charging-macan-718",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/CxWdPHwMOB4_WyM0F8ZOd9bdZ7I=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19413459/sokane_191127_3819_5743.jpg",
+      "publishedAt": "2022-03-18T15:29:39Z",
+      "content": "The VW-owned automaker aims to have 80 percent of its sales be electric by 2030\r\nPhoto by Sean OKane / The Verge\r\nIn a rare move, Porsche announced that it is planning on building its own network of … [+1963 chars]"
+    },
+    {
+      "source": { "id": "usa-today", "name": "USA Today" },
+      "author": null,
+      "title": "USA TODAY Sports Brackets",
+      "description": "Create men’s and women’s tournament brackets and make your picks before the tournaments begin.",
+      "url": "https://brackets.usatoday.com",
+      "urlToImage": "https://brackets.usatoday.com/wp-content/uploads/sites/98/2020/03/cropped-favicon.png",
+      "publishedAt": "2022-03-14T05:57:38+00:00",
+      "content": "© Copyright USA TODAY Sports Brackets 2022"
+    },
+    {
+      "source": { "id": "recode", "name": "Recode" },
+      "author": "Peter Kafka",
+      "title": "Will Apple or Google slow sports betting on your phone?",
+      "description": "Phone users are betting billions on sports. Will anything slow that down?",
+      "url": "https://www.vox.com/recode/22947732/phones-sports-betting-gambling-apple-google-march-madness",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/vRlrdmNupdJzoM5R7C39jtet2aE=/0x0:5520x2890/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23303883/1150786897.jpg",
+      "publishedAt": "2022-03-13T11:30:00Z",
+      "content": "Remember when we decided that spending too much time on our phones was a bad thing? That immersing ourselves in our iPhones could be unhealthy, or even addictive?\r\nThat was a couple of years ago. So … [+8004 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-times",
+        "name": "The Washington Times"
+      },
+      "author": "The Washington Times http://www.washingtontimes.com",
+      "title": "Latest Quizzes",
+      "description": "Take a break from the hard news of the day and enjoy a quiz on entertainment, sports, history and politics only from The Washington Times.",
+      "url": "https://www.washingtontimes.com/quiz/",
+      "urlToImage": null,
+      "publishedAt": "2021-02-10T03:52:37.2719772Z",
+      "content": "Featured Quizzes\r\nAttention all William Shakespeare experts. Pinpoint the prose's origin plucked from one of his many famous plays in this multiple-choice challenge.\r\n Shares \r\nName these legendary c… [+32652 chars]"
+    }
+  ]
+}
